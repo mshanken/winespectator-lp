@@ -1,0 +1,158 @@
+body{
+
+}
+#nav{
+	text-align: center;
+	background-color: #9e211a;
+	font-family: Arial;
+	padding: 10px;
+	margin-top: 5px;
+	color: #ffffff;
+}
+#nav a.btn-default {
+  color: #ffffff;
+  padding: 15px 0;
+  font-weight: bold;
+  font-size: 16px;
+}
+#nav a{
+	padding:0 50px;
+	color:#ffffff;
+}
+#header{
+ background-image: -webkit-gradient(
+  linear,
+  left top,
+  left bottom,
+  color-stop(0.42, rgb(153, 27, 29)),
+  color-stop(0.8, rgb(138, 26, 28))
+);
+  background-image: -o-linear-gradient(bottom, rgb(153, 27, 29) 42%, rgb(138, 26, 28) 80%);
+  background-image: -moz-linear-gradient(bottom, rgb(153, 27, 29) 42%, rgb(138, 26, 28) 80%);
+  background-image: -webkit-linear-gradient(bottom, rgb(153, 27, 29) 42%, rgb(138, 26, 28) 80%);
+  background-image: -ms-linear-gradient(bottom, rgb(153, 27, 29) 42%, rgb(138, 26, 28) 80%);
+  background-image: linear-gradient(to bottom, rgb(153, 27, 29) 42%, rgb(138, 26, 28) 80%);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+}
+h2 { 
+  color:#891719; 
+  font-size:30px; 
+  font-family:Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+p{
+  font-family:Georgia, "Times New Roman", Times, serif;
+  font-size:16px;
+}
+.text{
+  font-size: 20px;
+  padding-top: 10px;
+}
+#bottom{
+  border-bottom: 1px solid #000;
+}
+#subs{
+	background-color: #3f3c3c;
+	font-family: Arial;
+	text-align: center;
+	color:#ffffff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top:5px;
+}
+#confirmation-text{
+	background-color: #e8e8e8;
+	text-align: center;
+	font-family: Myriad Pro;
+	font-weight: bold;
+}
+#wine-family{
+	background-color: #9e211b;
+	color:#ffffff;
+	font-family: Myriad Pro;
+	text-align: center;
+	font-size: 20px;
+}
+#head-text{
+	text-align: center;
+	margin: 0 auto;
+}
+.title{
+	color: #6d0000;
+	font-size: 25px;
+	font-weight: lighter;
+	font-family: 'Open Sans', sans-serif;
+}
+#first-row{
+	margin-top: 40px;
+}
+#second-row{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+#image-centered{
+	margin:0 auto;
+}
+#button{
+	background-color: #a2221a;
+	color: #ffffff;
+	padding-right: 45px;
+	padding-left: 57px;
+	font-family: 'Open Sans', sans-serif;
+}
+#button a{
+	color:#ffffff;
+}
+#two-buttons1{
+	background-color: #4d4d4d;
+	color: #ffffff;
+	line-height: 0.9;
+	padding-left: 11px;
+	padding-right: 5px;
+	margin-right: 5px;
+	margin-left: 8px;
+	font-family: 'Open Sans', sans-serif;
+}
+#two-buttons2{
+	background-color: #4d4d4d;
+	color: #ffffff;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 15px;
+	padding-right: 12px;
+	margin-right: 8px;
+	margin-left: 8px;
+	font-family: 'Open Sans', sans-serif;
+}
+#membership{
+	color:#ffffff;
+	background-color: #a2221a;
+	padding-right: 19px;
+	padding-left: 33px;
+	margin-top: 10px;
+	font-family: 'Open Sans', sans-serif;
+}
+#membership a{
+	color: #ffffff;
+}
+#gift{
+	color: #fff;
+	padding-right: 76px;
+	padding-left: 68px;
+	margin-top: 0;
+	background-color: #4d4d4d;
+	font-family: 'Open Sans', sans-serif;
+}
+#gift a{
+	color:#ffffff;
+}
+#wine-links{
+	
+}
+#stores{
+	float: right;
+	margin-top: -83px;
+	padding-right: 65px;
+}
